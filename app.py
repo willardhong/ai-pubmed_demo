@@ -7,8 +7,8 @@ from phi.model.anthropic import Claude
 from phi.tools.pubmed import PubmedTools
 from phi.utils.pprint import pprint_run_response
 
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 
 #message("My message") 
 #message("Hello bot!", is_user=True)  # align's the message to the right
