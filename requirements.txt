@@ -3,3 +3,4 @@ phidata
 streamlit_chat
 anthropic
 openai
+groq
